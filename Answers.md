@@ -6,9 +6,9 @@
 
 
 2. Explain briefly the React Component Lifecycle. Name three of the methods that are a part of the lifecycle and what they do.
-*render .... it return what we want to see on the app
-*componentwillMount..... it called one time before render to update state
-*componentdidMount....  ??
+* render .... it return what we want to see on the app
+* componentwillMount..... it called one time before render to update state
+* componentdidMount....  ??
 
 
 3. Briefly describe some of the differences between a Class/Stateful component and a Functional/Presentational component.
